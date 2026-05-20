@@ -66,16 +66,3 @@ Contributions are welcome! To contribute to SpeedyTest, follow these steps:
 5. Open a pull request in the main repository.
 
 
-## Contact
-
-If you have any questions, comments, or suggestions about PrivacyNet, please feel free to contact me:
-
-- LinkedIn......: [LinkedIn](https://www.linkedin.com/in/halil-ibrahim-deniz/)
-- TryHackMe.: [TryHackMe](https://tryhackme.com/p/halilovic)
-- Instagram...: [Instagram](https://www.instagram.com/deniz.halil333/)
-- YouTube.....: [YouTube](https://www.youtube.com/c/HalilDeniz)
-- Email: halildeniz313@gmail.com
-
-## License
-
-SpeedyTest is released under the MIT License. See [LICENSE](LICENSE) for details.
